@@ -13,7 +13,7 @@ Languages
 Frameworks & Libraries
 > Node.js (Express, NestJS)
 > React / Vue.js,
-> Laravel / Symfony
+> Laravel
 
 Tools & Platforms
 > Version Control: Git & GitHub,
