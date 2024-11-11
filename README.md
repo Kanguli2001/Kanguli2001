@@ -5,21 +5,21 @@ Welcome to my GitHub profile! I’m a passionate JavaScript and PHP Developer wi
 
 🔧 Skills & Technologies
 Languages
-> JavaScript (ES6+, TypeScript)
-> PHP
-> SQL (MySQL, MongoDB)
+> JavaScript (ES6+, TypeScript),
+> PHP,
+> SQL (MySQL, MongoDB),
 > HTML5 / CSS3 (Tailwind, Bootstrap)
 
 Frameworks & Libraries
 > Node.js (Express, NestJS)
-> React / Vue.js
+> React / Vue.js,
 > Laravel / Symfony
 
 Tools & Platforms
-> Version Control: Git & GitHub
-> Database Management: MySQL, MongoDB
-> Testing: PHPUnit, Jest
-> DevOps: Apache
+> Version Control: Git & GitHub,
+> Database Management: MySQL, MongoDB,
+> Testing: PHPUnit,
+> DevOps: Apache,
 > API Development: RESTful APIs
 
 🚀 What I’m Currently Working On:
