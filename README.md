@@ -24,9 +24,8 @@ Tools & Platforms
 
 🚀 What I’m Currently Working On:
 > Building a PHP-based e-commerce platform with custom user authentication and payment integrations.
-> Building a ExpressJs and React based food delivery platform with custom user authentication and payment integrations
+> Building a ExpressJs and React based food delivery platform with custom user authentication and payment integrations.
 > Developing a real Estate Website with custom user authentication using Google firebase.
-> Developing open-source JavaScript libraries for simplifying common UI components.
 > Exploring Node.js server-side rendering and API development with Express and NestJS.
 
 🤝 Let’s Connect
